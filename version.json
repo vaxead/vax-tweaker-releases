@@ -2,5 +2,6 @@
   "version": "2.3.1",
   "download_url": "https://github.com/vaxead/vax-tweaker-releases/releases/download/v2.3.1/VaxTweaker.exe",
   "release_notes": "Initial release",
-  "min_version": "2.0.0"
+  "min_version": "2.0.0",
+  "sha256": "F45B247B0B9F2FA1B293BC3BAE9C367BEE227CD0C7BD65F708CFDEAC7BAA5C19"
 }
