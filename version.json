@@ -1,7 +1,7 @@
 {
-  "version": "2.3.3",
-  "display_version": "2.3.1",
-  "download_url": "https://github.com/vaxead/vax-tweaker-releases/releases/download/v2.3.1-hotfix2/Vax.Tweaker.exe",
-  "release_notes": "Fixes restore-point creation so new restore points are only reported after Windows actually registers them, improves restore history validation, and switches updates to a built-in one-file updater.",
-  "sha256": "2f5e2a2b9121a8e52b4329b7f9761056f50e973dc0b037c697051750fef3ecf4"
+  "version": "2.4.0",
+  "display_version": "2.4.0",
+  "download_url": "https://github.com/vaxead/vax-tweaker-releases/releases/download/v2.4.0/Vax.Tweaker.exe",
+  "release_notes": "VAX TWEAKER 2.4.0 expands premium optimization coverage, refines the update experience, and delivers a more polished global release with stronger workflow consistency.",
+  "sha256": "debe38f813f1b08dcae6a6033e9f9e5700a9074b9cf29576e75bfb1b7cee3d99"
 }
