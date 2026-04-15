@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1",
-  "display_version": "2.4.1",
-  "download_url": "https://github.com/vaxead/vax-tweaker-releases/releases/download/v2.4.1/Vax.Tweaker.exe",
-  "release_notes": "VAX TWEAKER 2.4.1 is a hotfix addressing NIC tweak reliability, Jumbo Packets and ECN Capability compatibility detection, and drift detection accuracy for Realtek adapters.",
-  "sha256": "2e674aeb3abaf1bebe6140345ae89672c17a05e01e69bae8cdc5d5dd59789a4f"
+  "version": "2.4.2",
+  "display_version": "2.4.2",
+  "download_url": "https://github.com/vaxead/vax-tweaker-releases/releases/download/v2.4.2/Vax.Tweaker.exe",
+  "release_notes": "VAX TWEAKER 2.4.2 adds five-language premium localization, a first-run onboarding wizard, an expanded Gaming Mode workflow, AMD GPU profiles, and update/runtime hardening.",
+  "sha256": "4c2152aa5531b6e0eef755ab855220635798b2096bc6a367e4259ba2683a0ba0"
 }
